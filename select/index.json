@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "through the dark",
+  "base_artist": "Rei Yasuda",
+  "createdAt": "2026-03-24T20:03:18.076527Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Journey Through The Dark",
+      "artist": "Blind Guardian",
+      "has_synced": false,
+      "path": "select/01_Journey_Through_The_Dark_Blind_Guardian.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Through The Dark",
+      "artist": "KT Tunstall",
+      "has_synced": true,
+      "path": "select/02_Through_The_Dark_KT_Tunstall.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Through the Dark",
+      "artist": "End of the Dream",
+      "has_synced": true,
+      "path": "select/03_Through_the_Dark_End_of_the_Dream.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Journey Through the Dark (Live)",
+      "artist": "Blind Guardian",
+      "has_synced": true,
+      "path": "select/04_Journey_Through_the_Dark_(Live)_Blind_Guardian.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Journey Through the Dark (Remastered 2007)",
+      "artist": "Blind Guardian",
+      "has_synced": false,
+      "path": "select/05_Journey_Through_the_Dark_(Remastered_2007)_Blind_Guardian.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Through the Dark",
+      "artist": "The Sundays",
+      "has_synced": true,
+      "path": "select/06_Through_the_Dark_The_Sundays.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Through the Dark",
+      "artist": "Rogue",
+      "has_synced": true,
+      "path": "select/07_Through_the_Dark_Rogue.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Through The Dark",
+      "artist": "Alexi Murdoch",
+      "has_synced": false,
+      "path": "select/08_Through_The_Dark_Alexi_Murdoch.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Journey Through the Dark (Live) - Remastered 2007",
+      "artist": "Blind Guardian",
+      "has_synced": true,
+      "path": "select/09_Journey_Through_the_Dark_(Live)_-_Remastered_2007_Blind_Guardian.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Wading Through the Dark",
+      "artist": "Bobaflex",
+      "has_synced": true,
+      "path": "select/10_Wading_Through_the_Dark_Bobaflex.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Journey through the dark",
+      "artist": "Blind Guardian",
+      "has_synced": true,
+      "path": "select/11_Journey_through_the_dark_Blind_Guardian.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Through the Dark",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/12_Through_the_Dark_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Journey Through The Dark",
+      "artist": "Blind Guardian",
+      "has_synced": true,
+      "path": "select/13_Journey_Through_The_Dark_Blind_Guardian.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Through the Dark",
+      "artist": "The Mowgli's",
+      "has_synced": true,
+      "path": "select/14_Through_the_Dark_The_Mowgli's.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "through the dark",
+      "artist": "安田レイ",
+      "has_synced": false,
+      "path": "select/pl_01_through_the_dark_安田レイ.txt"
+    }
+  ]
+}
